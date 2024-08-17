@@ -57,6 +57,11 @@ This will launch the app on your connected device or emulator.
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) file for details.
 
 # Screenshots
+![Screenshot 2024-08-17 130736](https://github.com/user-attachments/assets/ba6dc476-8d55-4d9b-a381-493bb186a8df)
+![Screenshot 2024-08-17 130655](https://github.com/user-attachments/assets/2a186796-50e8-40e1-80c7-3cdfdcfc3b07)
+![Screenshot 2024-08-17 130706](https://github.com/user-attachments/assets/a106a755-bab9-4a26-868c-862f84ca4432)
+![Screenshot 2024-08-17 130720](https://github.com/user-attachments/assets/43163754-6704-4010-8062-de4219595161)
+
 
 
 
